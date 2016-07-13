@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.emc.documentum.dfc:dfc:7.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/dfc/7.2-SNAPSHOT/dfc-7.2-20160710.203551-32.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/dfc/7.2-SNAPSHOT/dfc-7.2-20160710.203551-32-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/dfc/dfc/7.2-SNAPSHOT/dfc-7.2-20160710.203551-32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

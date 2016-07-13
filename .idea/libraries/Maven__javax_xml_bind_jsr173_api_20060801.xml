@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javax.xml.bind:jsr173_api:20060801">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/bind/jsr173_api/20060801/jsr173_api-20060801.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/bind/jsr173_api/20060801/jsr173_api-20060801-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/bind/jsr173_api/20060801/jsr173_api-20060801-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

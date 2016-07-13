@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.emc.documentum.services.config:configservice-impl:7.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/services/config/configservice-impl/7.2-SNAPSHOT/configservice-impl-7.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/services/config/configservice-impl/7.2-SNAPSHOT/configservice-impl-7.2-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/services/config/configservice-impl/7.2-SNAPSHOT/configservice-impl-7.2-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

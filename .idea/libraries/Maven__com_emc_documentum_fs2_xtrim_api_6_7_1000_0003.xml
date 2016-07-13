@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.emc.documentum.fs2:xtrim-api:6.7.1000.0003">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/fs2/xtrim-api/6.7.1000.0003/xtrim-api-6.7.1000.0003.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/fs2/xtrim-api/6.7.1000.0003/xtrim-api-6.7.1000.0003-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/emc/documentum/fs2/xtrim-api/6.7.1000.0003/xtrim-api-6.7.1000.0003-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
